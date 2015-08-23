@@ -5,7 +5,9 @@ Author: Erick J. Elizalde Figueroa.
 
 ## Study design
 
-This pro
+For this project was used a existent data set from the UCI - Machin Learning Repository under the name of "Human Activity Recognition Using Smartphones Data Set".
+
+A detailed description of this data set can be obtained from the webpage: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ## Steps
 
